@@ -2,6 +2,19 @@
     /*outline: solid 1px red;*/
 }
 
+body {
+    font-family: 'Lato', sans-serif;
+}
+
 .container {
 	margin-top: 10px;
+}
+
+.my-name {
+	font-weight: 300;
+}
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
