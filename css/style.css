@@ -19,6 +19,10 @@ body {
 	font-weight: 400;
 }
 
+.my-image {
+	height: 300px;
+}
+
 footer {
     padding-top: 10px;
     padding-bottom: 10px;
