@@ -11,7 +11,12 @@ body {
 }
 
 .my-name {
-	font-weight: 300;
+	font-size: 54px;
+	font-weight: 100;
+}
+
+.my-info {
+	font-weight: 400;
 }
 
 footer {
