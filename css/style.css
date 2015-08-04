@@ -1,29 +1,54 @@
 * {
-    /*outline: solid 1px red;*/
+  /*outline: solid 1px red;*/
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
-.container {
-	margin-top: 10px;
+.header {
+	margin-top: 20px;
 }
 
 .my-name {
 	font-size: 54px;
 	font-weight: 100;
+	color: #06204e;
 }
 
 .my-info {
 	font-weight: 400;
+	color: #06204e;
 }
 
 .my-image {
-	height: 300px;
+	/*height: 300px;*/
 }
 
 footer {
-    padding-top: 10px;
-    padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.my-logo {
+  text-align: center;
+}
+
+.my-logo-1 {
+	background: url("/images/github-64.png");
+}
+
+.center {
+  position: relative;
+  height: 64px;
+  width: 64px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  opacity: 0.20;
+  display: inline-block;
+}
+
+.center:hover {
+	opacity: 0.75;
 }
